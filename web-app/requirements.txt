@@ -1,0 +1,8 @@
+flask
+pymongo
+python-dotenv
+requests
+pytest
+coverage
+pytest-cov
+openai
