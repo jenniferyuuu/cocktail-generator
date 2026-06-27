@@ -1,6 +1,6 @@
 [![Github Event Logger](https://github.com/software-students-spring2025/5-final-twentysomething/actions/workflows/event-logger.yml/badge.svg?branch=main)](https://github.com/software-students-spring2025/5-final-twentysomething/actions/workflows/event-logger.yml) [![Web-app CI](https://github.com/software-students-spring2025/5-final-twentysomething/actions/workflows/web-app.yml/badge.svg?branch=main)](https://github.com/software-students-spring2025/5-final-twentysomething/actions/workflows/web-app.yml)
 
-# Final Project
+# Cocktail Generator
 
 ## Project Description
 A web app that allows users to input a mood, event, or vibe to receive a cocktail recipe in return. Users can create accounts to save recipes and keep a photo journal. View and enjoy a cocktail by visiting our [CockTail Generator App](https://cocktail-generator-7zzb9.ondigitalocean.app/).
